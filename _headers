@@ -3,7 +3,7 @@
     X-Frame-Options: DENY
     X-XSS-Protection: 1; mode=block
     X-Content-Type-Options: nosniff
-    Content-Security-Policy: script-src 'unsafe-inline' 'unsafe-eval' *.google-analytics.com *.cloudfront.net *.itnotforprofit.com *.netlify.com *.codepen.io *.googletagmanager.com; style-src 'unsafe-inline' *.cloudfront.net *.googleapis.com *.netlify.com *.itnotforprofit.com *.googletagmanager.com; default-src 'self' *.itnotforprofit.com *.googletagmanager.com *.cloudfront.net *.googleapis.com fonts.gstatic.com *.netlify.com *.codepen.io *.vimeo.com
+    Content-Security-Policy: script-src 'unsafe-inline' 'unsafe-eval' *.google-analytics.com *.cloudfront.net *.itnotforprofit.com *.netlify.com *.codepen.io *.googletagmanager.com; style-src 'unsafe-inline' *.cloudfront.net *.googleapis.com *.netlify.com *.itnotforprofit.com *.googletagmanager.com; default-src 'self' *.itnotforprofit.com *.googletagmanager.com *.cloudfront.net *.googleapis.com fonts.gstatic.com *.netlify.com *.codepen.io *.vimeo.com *.google-analytics.com
     Referrer-Policy: origin
     strict-transport-security: max-age=31536000; includeSubDomains
     Feature-Policy: vibrate 'self'; usermedia *; sync-xhr 'self'
