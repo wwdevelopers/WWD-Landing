@@ -2663,44 +2663,7 @@ text-align: center;
   text-align: right;
 }
 
-.svg-wrapper {
-  min-height:600px;
-}
-
-
-/* -----------------------------------------------------------------------------
-
-# Thank You Page
-
------------------------------------------------------------------------------ */
-
-#thank-you {
-  display: block;
+.svg-wrapper img{
   max-width: 400px;
-  margin: 0 auto;
-  stroke: #6AB4C9;
-}
-
-.path-first {
-  stroke-dasharray: 1800;
-}
-
-.path-second {
-  stroke-dasharray: 300;
-}
-
-.path-third {
-  stroke-dasharray: 200;
-}
-
-.path-fourth {
-  stroke-dasharray: 300;
-}
-
-.path-fifth {
-  stroke-dasharray: 800;
-}
-
-.path-sixth {
-  stroke-dasharray: 600;
+  margin-top: 30px;
 }
