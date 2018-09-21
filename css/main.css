@@ -2667,3 +2667,8 @@ text-align: center;
   max-width: 400px;
   margin-top: 30px;
 }
+@media only screen and (max-width: 767px) {
+  .svg-wrapper img {
+    width:90%;
+  }
+}
